@@ -20,7 +20,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_display: columns
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: compact
