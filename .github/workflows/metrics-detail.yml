@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          filename: General.svg
+          filename: ./assets/General.svg
           user: xpt030610
           template: classic
           base: header, activity, community, repositories
