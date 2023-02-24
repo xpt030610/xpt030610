@@ -9,8 +9,8 @@
 </div>
 <br>
 <div align="center">
-  <img src="assets/General.svg" alt="👑" width="48%"  align="left">
-  <img src="assets/Construction.svg" alt="👑" width="48%" align="right">
+  <img src="assets/General.svg" alt="👑" width="45%"  align="left">
+  <img src="assets/Construction.svg" alt="👑" width="45%" align="right">
 </div>
 
 
