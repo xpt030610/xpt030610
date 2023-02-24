@@ -8,8 +8,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xpt030610&theme=github&utcOffset=8" width="35%">
 </div>
 <br>
-<img src="/github-metrics.svg" alt="Metrics" width="400px">
-<img src="/General.svg" alt="👑" width="400px">
+<img src="/github-metrics.svg" alt="Metrics" width="400px" align="left">
+<img src="/General.svg" alt="👑" width="400px" align="right">
 
 
 
