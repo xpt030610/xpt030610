@@ -16,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
+          args: --height 3000
           user: xpt030610
           template: classic
           base: header, activity, community, repositories, metadata
