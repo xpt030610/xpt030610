@@ -12,8 +12,9 @@
   <img src="assets/General.svg" alt="👑" width="45%"  align="left" >
   <img src="assets/Construction.svg" alt="👑" width="45%" align="right">
 </div>
-
-
+<div align="center" >
+  <img src="assets/Calendar.svg" alt="👑" width="100%" align="right">
+</div>
 
 
 
