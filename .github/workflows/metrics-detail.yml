@@ -33,7 +33,7 @@ jobs:
           plugin_habits_languages_threshold: 0%
           extras_css: |
             * {
-              color: red;
+              background-color:purple
             }
           
       - name:  Construction
