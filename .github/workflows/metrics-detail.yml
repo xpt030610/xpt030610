@@ -1,7 +1,7 @@
 name: Metrics-Detail
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -33,7 +33,7 @@ jobs:
           plugin_habits_languages_threshold: 0%
           extras_css: |
             * {
-              background-color:purple
+              color:black
             }
           
       - name:  Construction
@@ -72,6 +72,10 @@ jobs:
           plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
+          extras_css: |
+            * {
+              color:black
+            }
           
       - name:  Calendar
         if: ${{ success() || failure() }} 
@@ -86,3 +90,7 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: |
+            * {
+              color:black
+            }
