@@ -1,9 +1,9 @@
 # About Me
 
-<!-- 贪吃蛇 -->
+<!-- 贪吃蛇 
 [<img src="https://cdn.jsdelivr.net/gh/xpt030610/xpt030610/assets/github-contribution-grid-snake.svg" alt="👑" width="100%"/>](#)
 
-
+-->
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpt030610" alt="👑" width="400" align="right">](#)
 [<img src="https://github-readme-stats.vercel.app/api?username=xpt030610&show_icons=true&theme=transparent" alt="👑" width="376"  align="left">](#)
